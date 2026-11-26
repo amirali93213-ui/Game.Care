@@ -1,3 +1,2 @@
-// برای افزودن خودرو، تنها یک رکورد به این داده‌ها اضافه کنید.
-export const CARS=Object.freeze([Object.freeze({id:'badpa-s1',name:'بادپا S1',color:'#46d9cb',acceleration:210,maxSpeed:310,turnRate:2.8,friction:0.985,braking:330})]);
-export const DEFAULT_CAR_ID='badpa-s1';
+export const CARS=Object.freeze([{id:'bodia-s1',name:'بودیا S1',color:'#ed453c',acceleration:225,maxSpeed:330,turnRate:2.9,friction:.985,braking:350},{id:'doran-gt',name:'دوران GT',color:'#38d8d0',acceleration:245,maxSpeed:350,turnRate:3.1,friction:.986,braking:360},{id:'arya-r',name:'آریا R',color:'#e9b74f',acceleration:210,maxSpeed:315,turnRate:2.7,friction:.984,braking:340}].map(Object.freeze));
+export const DEFAULT_CAR_ID='bodia-s1';
