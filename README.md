@@ -1,6 +1,6 @@
-# Game.Care | شهر جاده‌ها
+# Redline | رد لاین
 
-«شهر جاده‌ها» prototype ماژولار و داده‌محور یک بازی گردش آزاد شهری است. این هستهٔ وب با HTML، CSS و JavaScript استاندارد و ES Modules ساخته شده و برای Cloudflare Pages به build یا وابستگی خارجی نیاز ندارد.
+«رد لاین» prototype ماژولار و داده‌محور یک بازی گردش آزاد شهری است. این هستهٔ وب با HTML، CSS و JavaScript استاندارد و ES Modules ساخته شده و برای Cloudflare Pages به build یا وابستگی خارجی نیاز ندارد.
 
 ## ۱. معماری فایل‌ها
 
